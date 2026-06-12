@@ -36,5 +36,5 @@ real a, b, c, delta, x1, x2
 		
 
 	}
- // favor nao intentar numeros pq provavelmente vai dar um resultado enorme/inexistente para x1 e x2. Pesquisar equaçoes no google
+ // favor nao inventar numeros pq provavelmente vai dar um resultado enorme/inexistente para x1 e x2. Pesquisar equaçoes no google
 }
